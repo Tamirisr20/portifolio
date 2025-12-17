@@ -1,5 +1,5 @@
 # portfolio
-Meu primeiro portifólio 
+Meu primeiro portfolio
 
  <img width="1814" height="908" alt="Captura de tela 2025-08-08 223425" src="https://github.com/user-attachments/assets/89144e87-cdf6-496f-9ab9-7b6cbac25115" />
 
