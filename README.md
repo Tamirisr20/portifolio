@@ -1,7 +1,7 @@
 # Portfólio
 Meu primeiro portfolio
 
- <img width="1814" height="908"  src="https://github.com/user-attachments/assets/89144e87-cdf6-496f-9ab9-7b6cbac25115" />
+  src="https://github.com/user-attachments/assets/89144e87-cdf6-496f-9ab9-7b6cbac25115" />
 
 ## Ferramentas utilizadas:
 * HTML
